@@ -1,0 +1,44 @@
+#para1{
+    background-color: beige;
+    text-align: justify;
+    text-decoration: none;
+    text-shadow: 5em;
+    text-transform:uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2em;
+    font-stretch: narrower;
+    font-style:normal;
+    
+}
+#para2{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    color: crimson;
+}
+/*body{
+   background-image: url('C:/Users/rajesh/Pictures/bg.jpg');
+}*/
+div{
+    margin-top: 50px;
+    margin-left: 180px;
+    margin-right: 180px;
+    margin-bottom: 200px;
+    padding-top: 40px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    border-top: 20px;
+    border-bottom: 40px;
+    border-left: 30px;
+    border-right: 10px;
+    border-style: ridge;
+}
+
+
+
+
+
+
+
+
